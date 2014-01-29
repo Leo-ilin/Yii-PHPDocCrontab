@@ -1,6 +1,5 @@
 <?php
 /**
- * digoo
  * Class DbCrontab.php
  * @author leo
  * @date 13.11.13
