@@ -1,4 +1,4 @@
-#This is a fork of Yii PHPDocCrontab extension 
+#This is the fork of Yii PHPDocCrontab
 https://github.com/Yiivgeny/Yii-PHPDocCrontab
 Unlike the author's solution is that the tasks are stored in the database.
 
