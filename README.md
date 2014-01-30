@@ -1,5 +1,4 @@
 #This is the fork of Yii PHPDocCrontab
-https://github.com/Yiivgeny/Yii-PHPDocCrontab
 Unlike the author's solution is that the tasks are stored in the database.
 
 ##Installation
@@ -9,7 +8,7 @@ Unlike the author's solution is that the tasks are stored in the database.
 ```php
 'commandMap' => array(
     'cron' => 'ext.PHPDocCrontab.PHPDocCrontab',
-    'scheduler' => 'ext.DbCrontab'
+    'scheduler' => 'ext.PHPDocCrontab.DbCrontab'
 )
 ```
 
